@@ -1,0 +1,10 @@
+<library path="tinker_chassis_hardware">
+  <class name="tinker_chassis_hardware/MotorInterface"
+    type="tinker_motor::MotorInterface"
+    base_class_type="hardware_interface::SystemInterface"
+  >
+    <description>
+      Hardware interface for tinker chassis
+    </description>
+  </class>
+</library>
